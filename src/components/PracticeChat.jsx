@@ -3,6 +3,35 @@ import topics from '../data/phrasebook.json'
 
 const MAX_TURNS = 14
 
+function splitReply(content) {
+  const match = content.match(/coach note:?\s*/i)
+  if (!match) return { patientText: content, coachNote: '' }
+  const idx = match.index
+  return {
+    patientText: content.slice(0, idx).trim(),
+    coachNote: content.slice(idx + match[0].length).trim(),
+  }
+}
+
+function UserAvatar() {
+  return (
+    <div className="avatar avatar-user" aria-hidden="true">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="2">
+        <circle cx="12" cy="8" r="3.2" />
+        <path d="M5 20c1.4-3.6 4.2-5.5 7-5.5s5.6 1.9 7 5.5" strokeLinecap="round" />
+      </svg>
+    </div>
+  )
+}
+
+function PatientAvatar() {
+  return (
+    <div className="avatar avatar-assistant">
+      <img src="/logo.png" alt="" />
+    </div>
+  )
+}
+
 export default function PracticeChat() {
   const [topicId, setTopicId] = useState(topics[0]?.id)
   const [messages, setMessages] = useState([])
@@ -38,7 +67,7 @@ export default function PracticeChat() {
         throw new Error(d.error || `Server error (${res.status})`)
       }
       const data = await res.json()
-      setMessages([...history, ...(isStart ? [] : []), { role: 'assistant', content: data.reply }])
+      setMessages([...history, { role: 'assistant', content: data.reply }])
     } catch (e) {
       setError(e.message || 'Something went wrong. Try again.')
     } finally {
@@ -57,6 +86,7 @@ export default function PracticeChat() {
 
   const turnsUsed = messages.filter((m) => m.role === 'user').length
   const limitReached = turnsUsed >= MAX_TURNS
+  const topicTitle = topics.find((t) => t.id === topicId)?.title
 
   return (
     <div className="practice-layout">
@@ -81,6 +111,16 @@ export default function PracticeChat() {
         )}
       </div>
 
+      {messages.length > 0 && (
+        <div className="chat-header">
+          <PatientAvatar />
+          <div>
+            <p className="chat-header-name">Patient roleplay</p>
+            <p className="chat-header-topic">{topicTitle}</p>
+          </div>
+        </div>
+      )}
+
       <div className="chat-window">
         {messages.length === 0 && !loading && (
           <p className="chat-empty">
@@ -89,12 +129,41 @@ export default function PracticeChat() {
             After each reply you'll get a short coach note.
           </p>
         )}
-        {messages.map((m, i) => (
-          <div key={i} className={m.role === 'user' ? 'bubble user' : 'bubble assistant'}>
-            {m.content}
+        {messages.map((m, i) => {
+          if (m.role === 'user') {
+            return (
+              <div className="msg-row user" key={i}>
+                <div className="bubble-stack">
+                  <div className="bubble user">{m.content}</div>
+                </div>
+                <UserAvatar />
+              </div>
+            )
+          }
+          const { patientText, coachNote } = splitReply(m.content)
+          return (
+            <div className="msg-row assistant" key={i}>
+              <PatientAvatar />
+              <div className="bubble-stack">
+                <div className="bubble assistant">{patientText}</div>
+                {coachNote && (
+                  <div className="coach-note">
+                    <span className="coach-label">Coach note</span>
+                    {coachNote}
+                  </div>
+                )}
+              </div>
+            </div>
+          )
+        })}
+        {loading && (
+          <div className="msg-row assistant">
+            <PatientAvatar />
+            <div className="typing-indicator" aria-label="Patient is typing">
+              <span></span><span></span><span></span>
+            </div>
           </div>
-        ))}
-        {loading && <div className="bubble assistant loading">…</div>}
+        )}
         <div ref={endRef} />
       </div>
 
@@ -113,8 +182,10 @@ export default function PracticeChat() {
             placeholder={messages.length === 0 ? 'Start a scenario first…' : 'Type your response…'}
             disabled={messages.length === 0 || loading}
           />
-          <button type="submit" disabled={messages.length === 0 || loading || !input.trim()}>
-            Send
+          <button type="submit" disabled={messages.length === 0 || loading || !input.trim()} aria-label="Send">
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M4 12l16-7-6 16-2.5-6.5L4 12z" strokeLinejoin="round" strokeLinecap="round" />
+            </svg>
           </button>
         </form>
       )}
