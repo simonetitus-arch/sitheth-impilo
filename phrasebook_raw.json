@@ -1,0 +1,3554 @@
+[
+ {
+  "title": "Introducing Yourself to Patients",
+  "notes": [
+   "In the isiXhosa culture, it is expected that when one greets, he/she must greet with titles to assure politeness."
+  ],
+  "phrases": [
+   {
+    "english": "Miss / Ms (use if unsure of patient’s marital status)",
+    "xhosa": "nkosazana",
+    "audio": "media1.wav"
+   },
+   {
+    "english": "Mrs",
+    "xhosa": "nkosikazi",
+    "audio": "media2.wav"
+   },
+   {
+    "english": "Sir / Mr",
+    "xhosa": "mnumzana",
+    "audio": "media3.wav"
+   },
+   {
+    "english": "gentlemen",
+    "xhosa": "manene",
+    "audio": "media4.wav"
+   },
+   {
+    "english": "ladies",
+    "xhosa": "manenekazi",
+    "audio": "media5.wav"
+   },
+   {
+    "english": "father",
+    "xhosa": "tata",
+    "audio": "media6.wav"
+   },
+   {
+    "english": "mother",
+    "xhosa": "mama",
+    "audio": "media7.wav"
+   },
+   {
+    "english": "grand pa",
+    "xhosa": "tatomkhulu",
+    "audio": "media8.wav"
+   },
+   {
+    "english": "grand ma",
+    "xhosa": "makhulu",
+    "audio": "media9.wav"
+   },
+   {
+    "english": "sister",
+    "xhosa": "sisi (sometimes used to refer to a little girl)",
+    "audio": null
+   },
+   {
+    "english": "brother",
+    "xhosa": "bhuti (a respectful reference to an older male)",
+    "audio": null
+   },
+   {
+    "english": "hello",
+    "xhosa": "molo",
+    "audio": "media12.wav"
+   },
+   {
+    "english": "hello (when greeting more than one person)",
+    "xhosa": "molweni",
+    "audio": "media13.wav"
+   },
+   {
+    "english": "Hello, sir",
+    "xhosa": "Molo, mnumzana.",
+    "audio": "media14.wav"
+   },
+   {
+    "english": "Hello, Mr Njoli",
+    "xhosa": "Molo, Mnumzana Njoli.",
+    "audio": "media15.wav"
+   },
+   {
+    "english": "Hello, mothers",
+    "xhosa": "Molweni, makhosikazi.",
+    "audio": "media16.wav"
+   },
+   {
+    "english": "Hello, girls",
+    "xhosa": "Molweni, mantombazana.",
+    "audio": null
+   },
+   {
+    "english": "Hello, gentlemen",
+    "xhosa": "Molweni, manene.",
+    "audio": "media17.wav"
+   },
+   {
+    "english": "Hello, ladies",
+    "xhosa": "Molweni, manenekazi.",
+    "audio": "media18.wav"
+   },
+   {
+    "english": "Hello, Sipho",
+    "xhosa": "Molo, Sipho",
+    "audio": "media19.mp3"
+   },
+   {
+    "english": "Hello, Thandi",
+    "xhosa": "Molo, Thandi",
+    "audio": "media20.mp3"
+   },
+   {
+    "english": "Hello, Vicky and Thando",
+    "xhosa": "Molweni, Vicky noThando",
+    "audio": "media21.mp3"
+   },
+   {
+    "english": "You (are)",
+    "xhosa": "u",
+    "example_english": "You stay in Gugulethu",
+    "example_xhosa": "Uhlala eGugulethu",
+    "audio": "media22.mp3"
+   },
+   {
+    "english": "I",
+    "xhosa": "ndi",
+    "example_english": "I-am Njongo",
+    "example_xhosa": "NdinguNjongo",
+    "audio": "media23.mp3"
+   },
+   {
+    "english": "They",
+    "xhosa": "ba",
+    "example_english": "They live in Nyanga",
+    "example_xhosa": "Bahlala eNyanga",
+    "audio": "media24.mp3"
+   },
+   {
+    "english": "We",
+    "xhosa": "si",
+    "example_english": "We learn isiXhosa",
+    "example_xhosa": "Sifunda isiXhosa",
+    "audio": "media25.mp3"
+   },
+   {
+    "english": "You-all",
+    "xhosa": "ni",
+    "example_english": "You speak isiXhosa",
+    "example_xhosa": "Nithetha isiXhosa",
+    "audio": "media26.mp3"
+   }
+  ],
+  "slides": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ {
+  "title": "General Basic Health Enquiry",
+  "notes": [
+   "In the isiXhosa culture, it is expected to ask ‘’How are you?’’ before proceeding with the conversation, whether you know that person or not. If you do not ask about ‘’ímpilo’’, you are regarded as impolite.",
+   "*Nosipho is a female name because it begins with ‘No-’’which indicates female"
+  ],
+  "phrases": [
+   {
+    "english": "How are you ?",
+    "xhosa": "Unjani?",
+    "audio": "media32.mp3"
+   },
+   {
+    "english": "How are you feeling? (when someone is not well)",
+    "xhosa": "Uziva njani?",
+    "audio": "media33.mp3"
+   },
+   {
+    "english": "Are you (plural) well?",
+    "xhosa": "Niphilile?",
+    "audio": "media34.mp3"
+   },
+   {
+    "english": "Are you still well?",
+    "xhosa": "Usaphila?",
+    "audio": "media35.mp3"
+   },
+   {
+    "english": "How is it? (ku-it is) = it is how?",
+    "xhosa": "Kunjani?",
+    "audio": "media32.mp3"
+   },
+   {
+    "english": "I/ I am",
+    "xhosa": "Ndi-",
+    "audio": "media37.wav"
+   },
+   {
+    "english": "I-am-not",
+    "xhosa": "andi-",
+    "audio": "media36.wav"
+   },
+   {
+    "english": "fine",
+    "xhosa": "philile",
+    "audio": "media38.wav"
+   },
+   {
+    "english": "better",
+    "xhosa": "bhetele",
+    "audio": "media39.wav"
+   },
+   {
+    "english": "not-well",
+    "xhosa": "philanga",
+    "audio": "media40.wav"
+   },
+   {
+    "english": "thank-you",
+    "xhosa": "enkosi",
+    "audio": "media41.wav"
+   },
+   {
+    "english": "yes",
+    "xhosa": "ewe",
+    "audio": "media42.wav"
+   },
+   {
+    "english": "no",
+    "xhosa": "hayi",
+    "audio": "media43.wav"
+   },
+   {
+    "english": "I-am-well/fine, thank-you",
+    "xhosa": "Ndiphilile,  enkosi.",
+    "audio": "media44.mp3"
+   },
+   {
+    "english": "I-am-better, thank-you",
+    "xhosa": "Ndibhetele, enkosi.",
+    "audio": "media45.mp3"
+   },
+   {
+    "english": "No, I-am-not-well",
+    "xhosa": "Hayi, andiphilanga.",
+    "audio": "media46.mp3"
+   },
+   {
+    "english": "Yes, I-am-fine thank you,",
+    "xhosa": "Ewe, ndiphilile enkosi.",
+    "audio": "media47.mp3"
+   },
+   {
+    "english": "Yes, I-am-still-well",
+    "xhosa": "Ewe, ndisaphila.",
+    "audio": "media48.mp3"
+   },
+   {
+    "english": "I-speak a little bit of isiXhosa.",
+    "xhosa": "Ndithetha isiXhosa kancinci.",
+    "audio": "media49.mp3"
+   },
+   {
+    "english": "I-am trying to speak isiXhosa.",
+    "xhosa": "Ndizama ukuthetha isiXhosa.",
+    "audio": "media50.mp3"
+   },
+   {
+    "english": "I-request that you speak slowly.",
+    "xhosa": "Ndicela ucothise ukuthetha.",
+    "audio": "media51.mp3"
+   },
+   {
+    "english": "Do-you-speak isiXhosa only?",
+    "xhosa": "Uthetha isiXhosa kuphela?",
+    "audio": "media52.mp3"
+   },
+   {
+    "english": "Yes, I-speak isiXhosa only.",
+    "xhosa": "Ewe, ndithetha isiXhosa kuphela.",
+    "audio": "media53.mp3"
+   },
+   {
+    "english": "Do-you-want to-speak isiXhosa?",
+    "xhosa": "Ufuna ukuthetha isiXhosa okanye isiNgesi?",
+    "audio": "media54.mp3"
+   },
+   {
+    "english": "I beg your pardon. / Sorry, can-you-repeat.",
+    "xhosa": "Uxolo, khawuphinde.",
+    "audio": "media55.mp3"
+   },
+   {
+    "english": "I-don’t-hear, what you are saying?",
+    "xhosa": "Andiva, uthini?",
+    "audio": "media56.mp3"
+   },
+   {
+    "english": "I-don’t-understand.",
+    "xhosa": "Andiqondi.",
+    "audio": "media57.mp3"
+   },
+   {
+    "english": "Joseph",
+    "xhosa": "Molo, nkosazana.",
+    "audio": "media58.mp3"
+   },
+   {
+    "english": "Nosipho*",
+    "xhosa": "Ewé. Molo, mnumzana.",
+    "audio": "media59.mp3"
+   },
+   {
+    "english": "Joseph",
+    "xhosa": "Unjani, nkosazana?",
+    "audio": "media60.mp3"
+   },
+   {
+    "english": "Nosipho",
+    "xhosa": "Ndiphilile enkosi, unjani wena (and you)?",
+    "audio": "media62.mp3"
+   },
+   {
+    "english": "Joseph",
+    "xhosa": "Ndiphilile, enkosi.",
+    "audio": "media61.mp3"
+   },
+   {
+    "english": "I am not well.",
+    "xhosa": "Andiphilanga.",
+    "audio": "media63.mp3"
+   },
+   {
+    "english": "I empathise with you.",
+    "xhosa": "Ndiyavelana nawe.",
+    "audio": "media64.mp3"
+   },
+   {
+    "english": "(you can  empathise by saying)",
+    "xhosa": "‘’Hay’’ shame torho. (slang)",
+    "audio": "media65.mp3"
+   }
+  ],
+  "slides": [
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16
+  ]
+ },
+ {
+  "title": "Asking a Person’s Name and Surname",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "What is",
+    "xhosa": "ngubani",
+    "audio": "media69.wav"
+   },
+   {
+    "english": "The name",
+    "xhosa": "igama",
+    "audio": "media68.wav"
+   },
+   {
+    "english": "Yours",
+    "xhosa": "lakho",
+    "audio": null
+   },
+   {
+    "english": "What is",
+    "xhosa": "ngubani",
+    "audio": "media69.wav"
+   },
+   {
+    "english": "The surname",
+    "xhosa": "ifani",
+    "audio": "media67.wav"
+   },
+   {
+    "english": "Your",
+    "xhosa": "yakho",
+    "audio": "media70.mp3"
+   },
+   {
+    "english": "What is your name?",
+    "xhosa": "Ngubani igama Iakho?",
+    "audio": "media74.mp3"
+   },
+   {
+    "english": "My name is Joseph.",
+    "xhosa": "Igama Iam nguJoseph.",
+    "audio": "media75.mp3"
+   },
+   {
+    "english": "I-am-Joseph.",
+    "xhosa": "NdinguJoseph.",
+    "audio": "media77.mp3"
+   },
+   {
+    "english": "It’s-Joseph.",
+    "xhosa": "NguJoseph.",
+    "audio": "media76.mp3"
+   },
+   {
+    "english": "This is-Joseph Mda",
+    "xhosa": "Lo, nguJoseph Mda.",
+    "audio": "media78.mp3"
+   },
+   {
+    "english": "What is your surname?",
+    "xhosa": "Ngubani ifani yakho?",
+    "audio": "media79.mp3"
+   },
+   {
+    "english": "My surname is Maputa.",
+    "xhosa": "Ifani yam nguMaputa.",
+    "audio": "media80.mp3"
+   },
+   {
+    "english": "I-am Maputa.",
+    "xhosa": "NdinguMaputa.",
+    "audio": "media81.mp3"
+   },
+   {
+    "english": "It’s-Maputa.",
+    "xhosa": "NguMaputa.",
+    "audio": "media81.mp3"
+   }
+  ],
+  "slides": [
+   17,
+   18
+  ]
+ },
+ {
+  "title": "isiXhosa Clan Names",
+  "notes": [
+   "A clan name is considered more important than a surname in isiXhosa communities. Asking for or addressing someone with a clan name is considered a sign of respect and politeness which makes the person feel good. The children take the father’s clan name. People in isiXhosa culture do not marry the same clan as it is considered incest in the isiXhosa community.",
+   "You will notice that the females have ‘Ma’ in front of their clan names which represent the female gender. When a daughter gets married, she will keep her clan name, but her children will not use her clan name but will use the husband’s clan name. With males, the children take the father’s clan name. As it is with individual names, so it is with clan names, girls names have ‘No’ to represent a female name as shown in the examples below:"
+  ],
+  "phrases": [
+   {
+    "english": "Tshangisa",
+    "xhosa": "Matshangisa",
+    "audio": "media83.mp3"
+   },
+   {
+    "english": "Dlamini",
+    "xhosa": "Madlamini",
+    "audio": "media84.mp3"
+   },
+   {
+    "english": "Bhayi",
+    "xhosa": "Mabhayi",
+    "audio": "media85.mp3"
+   },
+   {
+    "english": "Dlomo",
+    "xhosa": "Madlomo",
+    "audio": "media86.mp3"
+   },
+   {
+    "english": "Radebe",
+    "xhosa": "Maradebe",
+    "audio": "media87.mp3"
+   },
+   {
+    "english": "Sipho",
+    "xhosa": "Nosipho",
+    "audio": "media94.mp3"
+   },
+   {
+    "english": "Themba",
+    "xhosa": "Nothemba",
+    "audio": "media95.mp3"
+   },
+   {
+    "english": "Luvuyo",
+    "xhosa": "Noluvuyo",
+    "audio": "media93.wav"
+   },
+   {
+    "english": "a clan",
+    "xhosa": "isiduko",
+    "audio": "media100.mp3"
+   },
+   {
+    "english": "What is your clan name?",
+    "xhosa": "Ngubani isiduko sakho?",
+    "audio": "media101.mp3"
+   },
+   {
+    "english": "My clan name is Madlamini.",
+    "xhosa": "Isiduko sam nguMadlamini.",
+    "audio": "media99.mp3"
+   },
+   {
+    "english": "I am pleased to know you.",
+    "xhosa": "Ndiyavuya ukukwazi.",
+    "audio": "media102.mp3"
+   },
+   {
+    "english": "Me too, I am pleased to know you.",
+    "xhosa": "Nam, ndiyavuya ukukwazi.",
+    "audio": "media103.mp3"
+   },
+   {
+    "english": "I (am)",
+    "xhosa": "Ndi (ya) (states how old you are at that moment)",
+    "audio": null
+   },
+   {
+    "english": "happy/pleased",
+    "xhosa": "vuya",
+    "audio": "media107.mp3"
+   },
+   {
+    "english": "me too",
+    "xhosa": "nam",
+    "audio": "media108.mp3"
+   },
+   {
+    "english": "meet",
+    "xhosa": "dibana",
+    "audio": "media105.mp3"
+   },
+   {
+    "english": "see",
+    "xhosa": "bona",
+    "audio": "media104.mp3"
+   },
+   {
+    "english": "I am pleased to meet you.",
+    "xhosa": "Ndiyavuya ukudibana nawe.",
+    "audio": "media109.mp3"
+   },
+   {
+    "english": "I am pleased to see you.",
+    "xhosa": "Ndiyavuya ukukubona.",
+    "audio": "media110.mp3"
+   }
+  ],
+  "slides": [
+   19,
+   20,
+   21,
+   22
+  ]
+ },
+ {
+  "title": "Medical Professions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "a doctor",
+    "xhosa": "ugqirha",
+    "audio": "media111.mp3"
+   },
+   {
+    "english": "a nurse",
+    "xhosa": "unesi",
+    "audio": "media112.mp3"
+   },
+   {
+    "english": "a dietician",
+    "xhosa": "ingcali-sondlo /  i-dietician",
+    "audio": "media113.mp3"
+   },
+   {
+    "english": "Speech Therapist",
+    "xhosa": "umnyangi wentetho / i-speech therapist",
+    "audio": "media114.mp3"
+   },
+   {
+    "english": "Social Worker",
+    "xhosa": "unontlalo-ntle",
+    "audio": "media115.mp3"
+   },
+   {
+    "english": "a Pharmacist",
+    "xhosa": "unokhemesti",
+    "audio": "media116.mp3"
+   },
+   {
+    "english": "a radiographer",
+    "xhosa": "i-radiographer / umthathi gesi",
+    "audio": "media117.mp3"
+   },
+   {
+    "english": "Optometrist",
+    "xhosa": "ugqirha wamehlo",
+    "audio": "media118.mp3"
+   },
+   {
+    "english": "a medical student",
+    "xhosa": "umfundi wezobugqirha",
+    "audio": "media119.mp3"
+   },
+   {
+    "english": "a professor",
+    "xhosa": "uprofesa",
+    "audio": "media120.mp3"
+   },
+   {
+    "english": "Physio–therapist",
+    "xhosa": "umnyangi wezihlunu nemisipha / i-physio therapist",
+    "audio": "media122.mp3"
+   },
+   {
+    "english": "occupational therapist",
+    "xhosa": "umnyangi wamalungu omzimba / i-occupational therapist",
+    "audio": "media121.mp3"
+   }
+  ],
+  "slides": [
+   23,
+   24
+  ]
+ },
+ {
+  "title": "Introducing Yourself Formally",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "I-am-Dr Sijali.",
+    "xhosa": "NdinguGqirha Sijali.",
+    "audio": "media123.mp3"
+   },
+   {
+    "english": "I-am nurse Lubambo.",
+    "xhosa": "NdinguNesi Lubambo.",
+    "audio": "media124.mp3"
+   },
+   {
+    "english": "I-am your dietician.",
+    "xhosa": "Ndiyingcali yesondlo sakho / ndiyi-diatician yakho.",
+    "audio": "media125.mp3"
+   },
+   {
+    "english": "I-am a speech-therapist.",
+    "xhosa": "Ndisi-speech therapist sakho / Ndingumnyangi wentetho.",
+    "audio": "media126.mp3"
+   },
+   {
+    "english": "I-am-a-social worker.",
+    "xhosa": "Ndingunontlalo-ntle.",
+    "audio": "media127.mp3"
+   },
+   {
+    "english": "I-am-a-pharmacist.",
+    "xhosa": "Ndingunokhemesti.",
+    "audio": "media128.mp3"
+   },
+   {
+    "english": "I-am-a-radiographer.",
+    "xhosa": "Ndiyi-radiographer.",
+    "audio": "media129.mp3"
+   },
+   {
+    "english": "I-am-an optometrist.",
+    "xhosa": "Ndingugqirha wamehlo.",
+    "audio": "media130.mp3"
+   },
+   {
+    "english": "I-am-a medical student.",
+    "xhosa": "Ndingumfundi wobugqirha.",
+    "audio": "media131.mp3"
+   },
+   {
+    "english": "I-am-Professor Njongo.",
+    "xhosa": "NdinguProfesa Njongo.",
+    "audio": "media132.mp3"
+   },
+   {
+    "english": "Hello, ma’am. I am Dr Johnson in Tygerberg hospital.",
+    "xhosa": "Molo nkosazana, ndinguGqirha Johnson, eTygerberg \nHospital.",
+    "audio": "media133.mp3"
+   },
+   {
+    "english": "Hello, ma’am. I am nurse Majiza in Tygerberg hospital.",
+    "xhosa": "Molo nkosikazi, ndingunesi Majiza eTygerberg Hospital.",
+    "audio": "media134.mp3"
+   },
+   {
+    "english": "Hello ladies. I am a speech-therapist.",
+    "xhosa": "Molweni manenekazi, ndisi-speech therapist/\nndingumnyangi wentetho.",
+    "audio": "media135.mp3"
+   }
+  ],
+  "slides": [
+   25,
+   26,
+   27
+  ]
+ },
+ {
+  "title": "Introducing Others",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "This is Dr Sijila.",
+    "xhosa": "Lo, nguGqirha Sijila.",
+    "audio": "media136.mp3"
+   },
+   {
+    "english": "This is nurse Sijadu.",
+    "xhosa": "Lo, nguNesi Sijadu.",
+    "audio": "media137.mp3"
+   },
+   {
+    "english": "This is a radiographer.",
+    "xhosa": "Lo, mngumthathi- gesi. / Lo, ngumntu othatha i-X-ray.",
+    "audio": "media138.mp3"
+   },
+   {
+    "english": "This is a dietician.",
+    "xhosa": "Le, yingcali yesondlo.",
+    "audio": "media139.mp3"
+   },
+   {
+    "english": "This is a social worker.",
+    "xhosa": "Lo, ngunontlalo-ntle.",
+    "audio": "media140.mp3"
+   },
+   {
+    "english": "This is my husband.",
+    "xhosa": "Lo, ngumyeni wam.",
+    "audio": "media141.mp3"
+   },
+   {
+    "english": "This is my wife.",
+    "xhosa": "Lo, ngumfazi wam.",
+    "audio": "media142.mp3"
+   },
+   {
+    "english": "This is my daughter.",
+    "xhosa": "Le, yintombi yam.",
+    "audio": "media143.mp3"
+   },
+   {
+    "english": "This is my son.",
+    "xhosa": "Lo, ngunyana wam.",
+    "audio": "media144.mp3"
+   },
+   {
+    "english": "These are my children.",
+    "xhosa": "Aba, ngabantwana bam.",
+    "audio": "media145.mp3"
+   }
+  ],
+  "slides": [
+   28,
+   29
+  ]
+ },
+ {
+  "title": "General Questions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Is this your doctor?",
+    "xhosa": "Ngugqirha wakho lo?",
+    "audio": "media146.mp3"
+   },
+   {
+    "english": "Is this your father?",
+    "xhosa": "Ngutata wakho lo?",
+    "audio": "media147.mp3"
+   },
+   {
+    "english": "Is this your mother?",
+    "xhosa": "Ngumama wakho lo?",
+    "audio": "media148.mp3"
+   },
+   {
+    "english": "Is this your daughter?",
+    "xhosa": "Yintombi yakho le?",
+    "audio": "media149.mp3"
+   },
+   {
+    "english": "Is this your son?",
+    "xhosa": "Ngunyana wakho lo?",
+    "audio": "media150.mp3"
+   },
+   {
+    "english": "Is this your relatives?",
+    "xhosa": "Sisizalwane sakho esi?",
+    "audio": "media151.mp3"
+   },
+   {
+    "english": "Are these your children?",
+    "xhosa": "Ngabantwana bakho aba?",
+    "audio": "media152.mp3"
+   }
+  ],
+  "slides": [
+   30
+  ]
+ },
+ {
+  "title": "Enquiring about Place of Residence",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Where do you live?",
+    "xhosa": "Uhlala phi?",
+    "audio": "media156.mp3"
+   },
+   {
+    "english": "you",
+    "xhosa": "u",
+    "audio": "media153.mp3"
+   },
+   {
+    "english": "live",
+    "xhosa": "hlala",
+    "audio": "media154.mp3"
+   },
+   {
+    "english": "where",
+    "xhosa": "phi",
+    "audio": "media155.mp3"
+   },
+   {
+    "english": "I live in Khayelitsha",
+    "xhosa": "Ndihlala eKhayelitsha.",
+    "audio": "media160.mp3"
+   },
+   {
+    "english": "I",
+    "xhosa": "Ndi",
+    "audio": "media159.mp3"
+   },
+   {
+    "english": "live",
+    "xhosa": "hlala",
+    "audio": "media154.mp3"
+   },
+   {
+    "english": "in",
+    "xhosa": "e",
+    "audio": "media158.mp3"
+   },
+   {
+    "english": "Where about in Khayelitsha?",
+    "xhosa": "Ndawoni (where about) eKhayelitsha?",
+    "audio": null
+   },
+   {
+    "english": "I live in Tulani street number 69.",
+    "xhosa": "Ndihlala e Tulani street kwanamba-(number)69.",
+    "audio": "media157.mp3"
+   }
+  ],
+  "slides": [
+   31,
+   32
+  ]
+ },
+ {
+  "title": "Singular Farewells in isiXhosa",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Go well.",
+    "xhosa": "Hamba kakuhle.",
+    "audio": "media162.mp3"
+   },
+   {
+    "english": "Go",
+    "xhosa": "hamba",
+    "audio": "media163.mp3"
+   },
+   {
+    "english": "Well",
+    "xhosa": "kakuhle",
+    "audio": "media164.mp3"
+   },
+   {
+    "english": "Stay",
+    "xhosa": "sala",
+    "audio": "media165.mp3"
+   },
+   {
+    "english": "Well",
+    "xhosa": "kakuhle",
+    "audio": "media164.mp3"
+   },
+   {
+    "english": "Go well, Mr Maputa.",
+    "xhosa": "Hamba kakuhle Mnumzana, Maputa.",
+    "audio": "media167.mp3"
+   },
+   {
+    "english": "Stay well, Mrs Jobela.",
+    "xhosa": "Sala kakuhle Nkosikazi, Jobela.",
+    "audio": "media168.mp3"
+   },
+   {
+    "english": "We will see each other again.",
+    "xhosa": "Sobonana kwakhona (again).",
+    "audio": "media169.mp3"
+   },
+   {
+    "english": "We will see each other.",
+    "xhosa": "Sobonana.",
+    "audio": "media170.mp3"
+   },
+   {
+    "english": "Have a nice day.",
+    "xhosa": "Ube nemini emnandi.",
+    "audio": "media171.mp3"
+   },
+   {
+    "english": "Bye–bye.",
+    "xhosa": "Bhay – bhay.",
+    "audio": "media166.mp3"
+   }
+  ],
+  "slides": [
+   33,
+   34
+  ]
+ },
+ {
+  "title": "Plural Farewells in isiXhosa",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Goodbye Themba and Sipho.",
+    "xhosa": "Hambani kakuhle, Themba noSipho.",
+    "audio": "media174.mp3"
+   },
+   {
+    "english": "Stay well Themba noSipho.",
+    "xhosa": "Salani kakuhle, Themba noSipho.",
+    "audio": "media175.mp3"
+   },
+   {
+    "english": "Have a nice day. (plural)",
+    "xhosa": "Nibe nemini emnandi.",
+    "audio": null
+   },
+   {
+    "english": "Go well, Vick and Thando.",
+    "xhosa": "Hambani kakuhle, Vick noThando.",
+    "audio": "media172.mp3"
+   },
+   {
+    "english": "Stay well, ladies.",
+    "xhosa": "Salani kakuhle, manenekazi.",
+    "audio": "media173.mp3"
+   }
+  ],
+  "slides": [
+   35
+  ]
+ },
+ {
+  "title": "Time-related Phrases",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "time",
+    "xhosa": "ixesha",
+    "audio": "media177.mp3"
+   },
+   {
+    "english": "a day",
+    "xhosa": "imini",
+    "audio": "media178.mp3"
+   },
+   {
+    "english": "in the morning",
+    "xhosa": "kusasa",
+    "audio": "media179.mp3"
+   },
+   {
+    "english": "at night",
+    "xhosa": "ebusuku",
+    "audio": "media180.mp3"
+   },
+   {
+    "english": "today",
+    "xhosa": "namhlanje",
+    "audio": "media181.mp3"
+   },
+   {
+    "english": "yesterday",
+    "xhosa": "izolo",
+    "audio": "media182.mp3"
+   },
+   {
+    "english": "a week",
+    "xhosa": "iveki",
+    "audio": "media183.mp3"
+   },
+   {
+    "english": "last week",
+    "xhosa": "iveki ephelileyo",
+    "audio": "media184.mp3"
+   },
+   {
+    "english": "next week",
+    "xhosa": "iveki ezayo",
+    "audio": "media185.mp3"
+   },
+   {
+    "english": "a year",
+    "xhosa": "unyaka",
+    "audio": "media186.mp3"
+   },
+   {
+    "english": "last year",
+    "xhosa": "unyaka ophelileyo",
+    "audio": "media187.mp3"
+   },
+   {
+    "english": "next year",
+    "xhosa": "unyaka ozayo",
+    "audio": "media188.mp3"
+   }
+  ],
+  "slides": [
+   37,
+   38
+  ]
+ },
+ {
+  "title": "Time-related Questions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "When?",
+    "xhosa": "nini?",
+    "example_english": "When do you cough?",
+    "example_xhosa": "Ukhohlela nini?",
+    "audio": "media194.mp3"
+   },
+   {
+    "english": "Where?",
+    "xhosa": "phi?",
+    "example_english": "Where is it sore?",
+    "example_xhosa": "Kubuhlungu phi?",
+    "audio": "media195.mp3"
+   },
+   {
+    "english": "How?",
+    "xhosa": "njani?",
+    "example_english": "How do you sleep?",
+    "example_xhosa": "Ulala njani?",
+    "audio": "media196.mp3"
+   },
+   {
+    "english": "How many times?",
+    "xhosa": "Kangaphi?",
+    "example_english": "How many times do you drink water?",
+    "example_xhosa": "Usela amanzi kangaphi?",
+    "audio": "media197.mp3"
+   },
+   {
+    "english": "How many times a day?",
+    "xhosa": "Kangaphi ngemini?",
+    "example_english": "How many times do you drink water a day?",
+    "example_xhosa": "Usela amanzi kangaphi \nngemini?",
+    "audio": "media198.mp3"
+   }
+  ],
+  "slides": [
+   39
+  ]
+ },
+ {
+  "title": "Basic Information and General History Questions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "How old are you?",
+    "xhosa": "Unangaphi?",
+    "audio": "media199.mp3"
+   },
+   {
+    "english": "When where you born?",
+    "xhosa": "Uzalwe nini?",
+    "audio": "media200.mp3"
+   },
+   {
+    "english": "Where were you born?",
+    "xhosa": "Uzalelwe phi?",
+    "audio": "media201.mp3"
+   },
+   {
+    "english": "Where were you brought up?",
+    "xhosa": "Ukhulele phi?",
+    "audio": "media202.mp3"
+   },
+   {
+    "english": "Where do you live?",
+    "xhosa": "Uhlala phi?",
+    "audio": "media156.mp3"
+   },
+   {
+    "english": "Where about?",
+    "xhosa": "Ndawoni?",
+    "audio": "media203.mp3"
+   },
+   {
+    "english": "Who do you live with?",
+    "xhosa": "Uhlala nabani?",
+    "audio": "media204.mp3"
+   },
+   {
+    "english": "What kind of house do you live in?",
+    "xhosa": "Uhlala kwindlu enjani?",
+    "audio": "media205.mp3"
+   },
+   {
+    "english": "I-live in a brick house.",
+    "xhosa": "Ndihlala kwindlu yesitena.",
+    "audio": "media206.mp3"
+   },
+   {
+    "english": "I-live in a flat.",
+    "xhosa": "Ndihlala eflethini.",
+    "audio": "media209.mp3"
+   },
+   {
+    "english": "I-live in a shack.",
+    "xhosa": "Ndihlala etyotyombeni.",
+    "audio": "media208.mp3"
+   },
+   {
+    "english": "Who do you live with?",
+    "xhosa": "Uhlala nabani?",
+    "audio": "media204.mp3"
+   },
+   {
+    "english": "I-stay with my children.",
+    "xhosa": "Ndihlala nabantwana (children) bam.",
+    "audio": "media207.mp3"
+   },
+   {
+    "english": "Is there water?",
+    "xhosa": "Amanzi akhona?",
+    "audio": "media210.mp3"
+   },
+   {
+    "english": "Yes there is.",
+    "xhosa": "Ewe, akhona.",
+    "audio": "media211.mp3"
+   },
+   {
+    "english": "No there isn’t.",
+    "xhosa": "Hayi, akakho.",
+    "audio": "media212.mp3"
+   },
+   {
+    "english": "Do you get water from the tap?",
+    "xhosa": "Ufumana amanzi empompeni?",
+    "audio": "media213.mp3"
+   },
+   {
+    "english": "Do you get water from the river?",
+    "xhosa": "Ufumana amanzi emlanjeni?",
+    "audio": "media214.mp3"
+   },
+   {
+    "english": "Yes",
+    "xhosa": "Ewe",
+    "audio": "media215.mp3"
+   },
+   {
+    "english": "No",
+    "xhosa": "Hayi",
+    "audio": "media216.mp3"
+   },
+   {
+    "english": "Is there electricity?",
+    "xhosa": "Umbane ukhona?",
+    "audio": "media217.mp3"
+   },
+   {
+    "english": "Yes there is electricity.",
+    "xhosa": "Ewe, ukhona umbane.",
+    "audio": "media218.mp3"
+   },
+   {
+    "english": "No there isn’t.",
+    "xhosa": "Hayi, awukho (umbane).",
+    "audio": "media219.mp3"
+   },
+   {
+    "english": "Yes",
+    "xhosa": "Ewe",
+    "audio": "media215.mp3"
+   },
+   {
+    "english": "No",
+    "xhosa": "Hayi",
+    "audio": "media216.mp3"
+   }
+  ],
+  "slides": [
+   40,
+   41,
+   42,
+   43
+  ]
+ },
+ {
+  "title": "Personal History Questions",
+  "notes": [
+   "*isiXhosa people know that a liquid medicine is “iyeza” and a tablet is “ipilisi”. The reason is African medicines are always in a liquid form, hence are called “iyeza”."
+  ],
+  "phrases": [
+   {
+    "english": "Are you working?",
+    "xhosa": "Uyasebenza?",
+    "audio": "media221.mp3"
+   },
+   {
+    "english": "Where do you work?",
+    "xhosa": "Usebenza phi?",
+    "audio": "media223.mp3"
+   },
+   {
+    "english": "What do you do at work?",
+    "xhosa": "Wenzantoni emsebenzini?",
+    "audio": "media226.mp3"
+   },
+   {
+    "english": "Are-you studying?",
+    "xhosa": "Uyafunda?",
+    "audio": "media231.mp3"
+   },
+   {
+    "english": "Where are you studying?",
+    "xhosa": "Ufunda phi?",
+    "audio": "media233.mp3"
+   },
+   {
+    "english": "Are-you married?",
+    "xhosa": "Utshatile?",
+    "audio": "media239.mp3"
+   },
+   {
+    "english": "Who are you married to?",
+    "xhosa": "Utshate nabani?",
+    "audio": "media240.mp3"
+   },
+   {
+    "english": "Do-you-have-children?",
+    "xhosa": "Unabantwana?",
+    "audio": "media241.mp3"
+   },
+   {
+    "english": "How many children?",
+    "xhosa": "Bangaphi abantwana?",
+    "audio": "media242.mp3"
+   },
+   {
+    "english": "Do-you-drink?",
+    "xhosa": "Uyasela?",
+    "audio": "media250.mp3"
+   },
+   {
+    "english": "Do-you-drink a-little or a-lot?",
+    "xhosa": "Usela kancinci okanye \nkakhulu?",
+    "audio": "media251.mp3"
+   },
+   {
+    "english": "What do you drink?",
+    "xhosa": "Usela ntoni?",
+    "audio": "media252.mp3"
+   },
+   {
+    "english": "Do-you smoke?",
+    "xhosa": "Uyatshaya?",
+    "audio": "media257.mp3"
+   },
+   {
+    "english": "Are-you smoking a lot?",
+    "xhosa": "Utshaya kakhulu?",
+    "audio": "media258.mp3"
+   },
+   {
+    "english": "Are-you smoking a little?",
+    "xhosa": "Utshaya kancinci?",
+    "audio": "media259.mp3"
+   },
+   {
+    "english": "What do you smoke?",
+    "xhosa": "Utshaya ntoni?",
+    "audio": "media260.mp3"
+   },
+   {
+    "english": "How many cigarettes do you smoke a day?",
+    "xhosa": "Utshaya izigarethi \nezingaphi ngemini?",
+    "audio": "media261.mp3"
+   },
+   {
+    "english": "Do you use medicine?",
+    "xhosa": "Usebenzisa amayeza?",
+    "audio": "media263.mp3"
+   },
+   {
+    "english": "Do you use pills?",
+    "xhosa": "Usebenzisa iipilisi?",
+    "audio": "media262.mp3"
+   },
+   {
+    "english": "Do you use sangoma (herbalist) medicine?",
+    "xhosa": "Usebenzisa amayeza esangoma?",
+    "audio": "media264.wav"
+   },
+   {
+    "english": "Which medicine?",
+    "xhosa": "Usebenzisa awaphi amayeza?",
+    "audio": "media265.wav"
+   },
+   {
+    "english": "Which tablets do you use?",
+    "xhosa": "Usebenzisa eziphi ipilisi?",
+    "audio": "media266.mp3"
+   }
+  ],
+  "slides": [
+   44,
+   45,
+   46,
+   47,
+   48,
+   49
+  ]
+ },
+ {
+  "title": "Medical History Questions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Which of these illnesses do you suffer from?",
+    "xhosa": "Kwezi zigulo, sesiphi onaso?",
+    "audio": null
+   },
+   {
+    "english": "diabetes",
+    "xhosa": "iswekile",
+    "audio": "media268.mp3"
+   },
+   {
+    "english": "high blood pressure",
+    "xhosa": "i-hay-hay (slang)",
+    "audio": null
+   },
+   {
+    "english": "asthma",
+    "xhosa": "ukuminxana kwesifuba",
+    "audio": "media270.mp3"
+   },
+   {
+    "english": "fits",
+    "xhosa": "ukuxhuzula",
+    "audio": "media271.mp3"
+   },
+   {
+    "english": "HIV/AIDS",
+    "xhosa": "ugawulayo / i-HIV/AIDS",
+    "audio": "media269.mp3"
+   },
+   {
+    "english": "kidneys",
+    "xhosa": "izintso",
+    "audio": "media272.mp3"
+   },
+   {
+    "english": "cancer",
+    "xhosa": "umhlaza / i-cancer",
+    "audio": "media273.mp3"
+   },
+   {
+    "english": "heart",
+    "xhosa": "intliziyo",
+    "audio": "media274.mp3"
+   },
+   {
+    "english": "cardiovascular",
+    "xhosa": "isifo sentliziyo",
+    "audio": "media276.mp3"
+   },
+   {
+    "english": "chest pain",
+    "xhosa": "intlungu esifubeni",
+    "audio": "media275.mp3"
+   },
+   {
+    "english": "tightness",
+    "xhosa": "uminxano",
+    "audio": "media277.mp3"
+   },
+   {
+    "english": "discomfort",
+    "xhosa": "uxinizelelo",
+    "audio": "media278.mp3"
+   },
+   {
+    "english": "heaviness",
+    "xhosa": "ukusindeka",
+    "audio": null
+   },
+   {
+    "english": "Difficulty in breathing",
+    "xhosa": "Ukuphefumla nzima",
+    "audio": "media279.mp3"
+   },
+   {
+    "english": "Have you ever experienced chest pains?",
+    "xhosa": "Wakhe wanentlungu esifubeni?",
+    "audio": "media280.mp3"
+   },
+   {
+    "english": "Have you had chest pains that only last a minute and then stop?",
+    "xhosa": "Wakhe waneentlungu esifubeni ezithatha \numzuzu ziyeke?",
+    "audio": "media281.mp3"
+   },
+   {
+    "english": "Have you ever experienced tightness in the chest?",
+    "xhosa": "Wakhe wabambeka esifubeni?",
+    "audio": "media282.mp3"
+   },
+   {
+    "english": "Have you ever experienced heaviness in the chest?",
+    "xhosa": "Wakhe wasindeka esifubeni?",
+    "audio": "media283.mp3"
+   },
+   {
+    "english": "Have you ever struggled to breathe?",
+    "xhosa": "Wakhe wasokola ukuphefumla?",
+    "audio": "media284.mp3"
+   },
+   {
+    "english": "Have you ever struggled to breathe, while sleeping?",
+    "xhosa": "Wakhe wasokola ukuphefumla, xa ulele?",
+    "audio": "media285.mp3"
+   },
+   {
+    "english": "Have you ever had a strong heart beat?",
+    "xhosa": "Yakhe intliziyo yakho yabetha ngamandla?",
+    "audio": "media286.mp3"
+   },
+   {
+    "english": "Have you ever had an irregular heart beat?",
+    "xhosa": "Yakhe intliziyo yakho ayabetha kakuhle?",
+    "audio": "media295.mp3"
+   },
+   {
+    "english": "Can you tap out the rhythm using your finger?",
+    "xhosa": "Ungabonisa ukubetha kwentliziyo ngomnwe?",
+    "audio": "media290.mp3"
+   },
+   {
+    "english": "Do your feet get swollen?",
+    "xhosa": "Iinyawo zakho ziyadumba?",
+    "audio": "media288.mp3"
+   },
+   {
+    "english": "Do your ankles get swollen?",
+    "xhosa": "Amaqatha akho ayadumba?",
+    "audio": "media287.mp3"
+   },
+   {
+    "english": "Have you ever had high blood pressure?",
+    "xhosa": "Wakhe wane hay-hay? (slang)",
+    "audio": null
+   },
+   {
+    "english": "Have you experienced dizziness?",
+    "xhosa": "Wakhe wanesiyezi?",
+    "audio": "media293.mp3"
+   },
+   {
+    "english": "Have you had epilepsy?",
+    "xhosa": "Wakhe waxhuzula?",
+    "audio": "media294.mp3"
+   },
+   {
+    "english": "Are you always tired?",
+    "xhosa": "Usoloko udiniwe?",
+    "audio": "media291.mp3"
+   },
+   {
+    "english": "Do you have a family with heart problems?",
+    "xhosa": "Ingaba ukho umntu wefemeli onesifo sentliziyo?",
+    "audio": "media289.mp3"
+   },
+   {
+    "english": "Do you have chest pain?",
+    "xhosa": "Unentlungu esifubeni?",
+    "audio": "media296.mp3"
+   },
+   {
+    "english": "Does this pain go to the arm?",
+    "xhosa": "Ingaba le ntlungu iya engalweni?",
+    "audio": "media297.mp3"
+   },
+   {
+    "english": "Does this pain travel to the jaw?",
+    "xhosa": "Ingaba le ntlungu iya endlathini?",
+    "audio": "media298.mp3"
+   },
+   {
+    "english": "Does this pain travel to the neck?",
+    "xhosa": "Ingaba le ntlungu iya entanyeni?",
+    "audio": "media299.mp3"
+   },
+   {
+    "english": "Have you had this pain before?",
+    "xhosa": "Wakhe wanayo le ntlungu ngaphambili?",
+    "audio": "media301.mp3"
+   },
+   {
+    "english": "When?",
+    "xhosa": "Nini?",
+    "audio": "media300.mp3"
+   },
+   {
+    "english": "Is there anything that makes the pain worse?",
+    "xhosa": "Yintoni eyenza kube buhlungu kakhulu?",
+    "audio": "media302.mp3"
+   },
+   {
+    "english": "Is there anything that makes the pain better?",
+    "xhosa": "Yintoni eyenza lentlungu ibebhetele?",
+    "audio": "media303.mp3"
+   },
+   {
+    "english": "Do you struggle to breathe?",
+    "xhosa": "Uyasokola ukuphefumla?",
+    "audio": "media307.mp3"
+   },
+   {
+    "english": "Do you have breathing pain?",
+    "xhosa": "Unehlaba xa uphefumla?",
+    "audio": "media306.mp3"
+   },
+   {
+    "english": "Do you gasp for breath?",
+    "xhosa": "Uphelelwa kukuphefumla?",
+    "audio": "media308.mp3"
+   },
+   {
+    "english": "How many pillows do you use?",
+    "xhosa": "Usebenzisa imiqamelelo emingaphi?",
+    "audio": "media309.mp3"
+   },
+   {
+    "english": "Do-you-prefer not-to-use a pillow?",
+    "xhosa": "Ukhetha ukungasebenzisi umqamelelo?",
+    "audio": "media304.mp3"
+   },
+   {
+    "english": "Do-you-prefer to-use a lot of pillows?",
+    "xhosa": "Ukhetha ukusebenzisa imiqamelelo emininzi?",
+    "audio": "media305.mp3"
+   },
+   {
+    "english": "Heavy Chest",
+    "xhosa": "isifuba esinzima",
+    "audio": "media310.mp3"
+   },
+   {
+    "english": "Is your chest heavy?",
+    "xhosa": "Isifuba sakho sinzima?",
+    "audio": "media311.mp3"
+   },
+   {
+    "english": "Ankle Swelling",
+    "xhosa": "amaqatha adumbileyo",
+    "audio": "media312.mp3"
+   },
+   {
+    "english": "Palpitation",
+    "xhosa": "intliziyo ebethayo",
+    "audio": "media313.mp3"
+   },
+   {
+    "english": "Syncope",
+    "xhosa": "isiyezi",
+    "audio": "media314.mp3"
+   },
+   {
+    "english": "Intermittent claudication fatigue",
+    "xhosa": "Ukudinwa",
+    "audio": "media315.mp3"
+   },
+   {
+    "english": "Do you feel tired?",
+    "xhosa": "Uziva udiniwe?",
+    "audio": "media316.mp3"
+   },
+   {
+    "english": "Have you ever suffered from heart burn?",
+    "xhosa": "Wakhe wanesitshisa?",
+    "audio": "media317.mp3"
+   }
+  ],
+  "slides": [
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56
+  ]
+ },
+ {
+  "title": "General Medical Examination",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Get onto the bed.",
+    "xhosa": "Khwela ebhedini!",
+    "audio": "media318.mp3"
+   },
+   {
+    "english": "Get off from the bed.",
+    "xhosa": "Yihla ebhedini!",
+    "audio": "media319.mp3"
+   },
+   {
+    "english": "Examine the blood.",
+    "xhosa": "Xilonga igazi!",
+    "audio": "media320.mp3"
+   },
+   {
+    "english": "Take-off-clothes.",
+    "xhosa": "Khulula!",
+    "audio": "media321.mp3"
+   },
+   {
+    "english": "Put-on-clothes.",
+    "xhosa": "Nxiba!",
+    "audio": "media333.mp3"
+   },
+   {
+    "english": "Open the-mouth.",
+    "xhosa": "Khamisa!",
+    "audio": "media334.mp3"
+   },
+   {
+    "english": "",
+    "xhosa": "Vula umlomo!",
+    "audio": "media335.mp3"
+   },
+   {
+    "english": "Close the-mouth.",
+    "xhosa": "Vala umlomo!",
+    "audio": "media336.mp3"
+   },
+   {
+    "english": "Touch the-nose.",
+    "xhosa": "Phatha impumlo!",
+    "audio": "media337.mp3"
+   },
+   {
+    "english": "Move/shake.",
+    "xhosa": "Shukuma!",
+    "audio": "media338.mp3"
+   },
+   {
+    "english": "Show your hand.",
+    "xhosa": "Bonisa isandla sakho!",
+    "audio": "media345.mp3"
+   },
+   {
+    "english": "Show your hands.",
+    "xhosa": "Bonisa izandla zakho!",
+    "audio": "media346.mp3"
+   },
+   {
+    "english": "Move/shake your hand.",
+    "xhosa": "Shukumisa isandla!",
+    "audio": "media347.mp3"
+   },
+   {
+    "english": "Raise the arm.",
+    "xhosa": "Nyusa ingalo!",
+    "audio": "media348.mp3"
+   },
+   {
+    "english": "Lower the arm.",
+    "xhosa": "Hlisa ingalo!",
+    "audio": "media353.mp3"
+   },
+   {
+    "english": "Bend the arm.",
+    "xhosa": "Goba ingalo!",
+    "audio": "media354.mp3"
+   },
+   {
+    "english": "Straighten the arm.",
+    "xhosa": "Yolula ingalo!",
+    "audio": "media355.mp3"
+   },
+   {
+    "english": "Breathe.",
+    "xhosa": "Phefumla!",
+    "audio": "media356.mp3"
+   }
+  ],
+  "slides": [
+   57,
+   58,
+   59,
+   60
+  ]
+ },
+ {
+  "title": "Body Parts – General Questions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "What are you suffering from?",
+    "xhosa": "Uphethwe yintoni?",
+    "audio": "media358.mp3"
+   },
+   {
+    "english": "What do you have?",
+    "xhosa": "Unantoni?",
+    "audio": "media357.mp3"
+   },
+   {
+    "english": "What’s your problem?",
+    "xhosa": "Yintoni ingaxi yakho?",
+    "audio": "media359.mp3"
+   },
+   {
+    "english": "When did the problem start?",
+    "xhosa": "Iqale nini ingxaki yakho?",
+    "audio": "media360.mp3"
+   }
+  ],
+  "slides": [
+   61
+  ]
+ },
+ {
+  "title": "Body Parts",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "head",
+    "xhosa": "intloko",
+    "audio": "media373.mp3"
+   },
+   {
+    "english": "eye",
+    "xhosa": "imehlo",
+    "audio": "media374.mp3"
+   },
+   {
+    "english": "eyes",
+    "xhosa": "amehlo",
+    "audio": "media379.wav"
+   },
+   {
+    "english": "ear",
+    "xhosa": "indlebe",
+    "audio": "media375.mp3"
+   },
+   {
+    "english": "nose",
+    "xhosa": "impumlo",
+    "audio": "media376.mp3"
+   },
+   {
+    "english": "cheek",
+    "xhosa": "isidlele",
+    "audio": "media377.mp3"
+   },
+   {
+    "english": "mouth",
+    "xhosa": "umlomo",
+    "audio": "media378.mp3"
+   },
+   {
+    "english": "lip",
+    "xhosa": "umlebe",
+    "audio": "media389.mp3"
+   },
+   {
+    "english": "tongue",
+    "xhosa": "ulwimi",
+    "audio": "media390.mp3"
+   },
+   {
+    "english": "tooth",
+    "xhosa": "izinyo",
+    "audio": "media391.mp3"
+   },
+   {
+    "english": "gums",
+    "xhosa": "iintsini",
+    "audio": "media392.mp3"
+   },
+   {
+    "english": "chin",
+    "xhosa": "isilevu",
+    "audio": "media393.mp3"
+   },
+   {
+    "english": "neck",
+    "xhosa": "intamo",
+    "audio": "media394.mp3"
+   },
+   {
+    "english": "throat",
+    "xhosa": "umqala",
+    "audio": "media395.mp3"
+   },
+   {
+    "english": "back",
+    "xhosa": "umqolo",
+    "audio": "media406.mp3"
+   },
+   {
+    "english": "arm",
+    "xhosa": "ingalo",
+    "audio": "media407.mp3"
+   },
+   {
+    "english": "stomach",
+    "xhosa": "isisu",
+    "audio": "media408.mp3"
+   },
+   {
+    "english": "leg",
+    "xhosa": "umlenze",
+    "audio": "media409.mp3"
+   },
+   {
+    "english": "toe",
+    "xhosa": "uzwane",
+    "audio": "media410.mp3"
+   },
+   {
+    "english": "thumb",
+    "xhosa": "ubhontsi",
+    "audio": "media411.mp3"
+   },
+   {
+    "english": "hand",
+    "xhosa": "isandla",
+    "audio": "media422.mp3"
+   },
+   {
+    "english": "waist",
+    "xhosa": "isinqe",
+    "audio": "media423.mp3"
+   },
+   {
+    "english": "gland",
+    "xhosa": "idlala",
+    "audio": "media424.mp3"
+   },
+   {
+    "english": "breast",
+    "xhosa": "ibele",
+    "audio": "media425.mp3"
+   },
+   {
+    "english": "nail",
+    "xhosa": "uzipho",
+    "audio": "media426.wav"
+   },
+   {
+    "english": "foot",
+    "xhosa": "unyawo",
+    "audio": "media427.mp3"
+   }
+  ],
+  "slides": [
+   62,
+   63,
+   64,
+   65
+  ]
+ },
+ {
+  "title": "Asking about Symptoms",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Are you nauseous?",
+    "xhosa": "Unesicefe-cefe?",
+    "audio": "media429.mp3"
+   },
+   {
+    "english": "Do you have back ache?",
+    "xhosa": "Unesicefe-cefe?",
+    "audio": "media429.mp3"
+   },
+   {
+    "english": "Are you coughing?",
+    "xhosa": "Uyakhohlela?",
+    "audio": "media430.mp3"
+   },
+   {
+    "english": "Do you have a tummy ache?",
+    "xhosa": "Unesisu?",
+    "audio": "media431.mp3"
+   },
+   {
+    "english": "Do you have flu?",
+    "xhosa": "Unefiva?",
+    "audio": "media432.mp3"
+   },
+   {
+    "english": "Do you have a temperature? (flu is often associated with fever with isiXhosa people)",
+    "xhosa": "Unobushushu?",
+    "audio": "media433.mp3"
+   },
+   {
+    "english": "Are you dizzy?",
+    "xhosa": "Unesiyezi?",
+    "audio": "media434.mp3"
+   },
+   {
+    "english": "Are you constipated?",
+    "xhosa": "Uqhinile?",
+    "audio": "media435.mp3"
+   },
+   {
+    "english": "Do you have diarrhoea?",
+    "xhosa": "Uyahambisa?",
+    "audio": "media436.mp3"
+   }
+  ],
+  "slides": [
+   66
+  ]
+ },
+ {
+  "title": "Symptoms",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "I feel nauseous",
+    "xhosa": "Ndinesicefe- cefe",
+    "audio": "media437.mp3"
+   },
+   {
+    "english": "I have a sore back",
+    "xhosa": "Ndinomqolo",
+    "audio": "media438.mp3"
+   },
+   {
+    "english": "I am coughing",
+    "xhosa": "Ndiyakhohlela",
+    "audio": "media439.mp3"
+   },
+   {
+    "english": "I have a tummy ache",
+    "xhosa": "Ndinesisu",
+    "audio": "media440.mp3"
+   },
+   {
+    "english": "I have a fever",
+    "xhosa": "Ndinefiva",
+    "audio": "media441.mp3"
+   },
+   {
+    "english": "I have a temperature",
+    "xhosa": "Ndinobushushu",
+    "audio": "media442.mp3"
+   },
+   {
+    "english": "I am dizzy",
+    "xhosa": "Ndinesiyezi",
+    "audio": "media443.mp3"
+   },
+   {
+    "english": "I am constipated",
+    "xhosa": "Ndiqhinile",
+    "audio": "media444.mp3"
+   },
+   {
+    "english": "I have diarrhoea",
+    "xhosa": "Ndiyahambisa",
+    "audio": "media445.mp3"
+   }
+  ],
+  "slides": [
+   67
+  ]
+ },
+ {
+  "title": "Asking about Pain",
+  "notes": [
+   "*IsiXhosa people know that a liquid medicine is  ‘yeza’ and a tablet is ‘ipilisi’. The reason is African medicines are always in a liquid form hence are called  ‘yeza’."
+  ],
+  "phrases": [
+   {
+    "english": "Pain",
+    "xhosa": "Intlungu",
+    "audio": "media446.mp3"
+   },
+   {
+    "english": "What is your problem?",
+    "xhosa": "Yintoni Ingxaki yakho?",
+    "audio": "media448.mp3"
+   },
+   {
+    "english": "What are you suffering?",
+    "xhosa": "Uphethwe yintoni?",
+    "audio": "media449.mp3"
+   },
+   {
+    "english": "Where is it sore?",
+    "xhosa": "Kubuhlungu phi?",
+    "audio": "media450.mp3"
+   },
+   {
+    "english": "Is it sore here?",
+    "xhosa": "Kubuhlungu apha?",
+    "audio": "media451.mp3"
+   },
+   {
+    "english": "Can you show me?",
+    "xhosa": "Ungandibonisa?",
+    "audio": "media447.mp3"
+   },
+   {
+    "english": "Show me!",
+    "xhosa": "Ndibonise!",
+    "audio": "media452.mp3"
+   },
+   {
+    "english": "Please show me where it is sore.",
+    "xhosa": "Khawundibonise kubuhlungu phi.",
+    "audio": "media453.mp3"
+   },
+   {
+    "english": "I request that you show me where it is sore.",
+    "xhosa": "Ndicela undibonise kubuhlungu phi.",
+    "audio": "media455.mp3"
+   },
+   {
+    "english": "Do these pains come and go?",
+    "xhosa": "Ezi ntlungu zihamba zibuye?",
+    "audio": "media456.mp3"
+   },
+   {
+    "english": "Do you have a stabbing pain?",
+    "xhosa": "Unentlungu ehlabayo? / Iyahlaba le ntlungu?",
+    "audio": "media457.mp3"
+   },
+   {
+    "english": "When did the pains start?",
+    "xhosa": "Iintlungu ziqale nini?",
+    "audio": "media458.mp3"
+   },
+   {
+    "english": "When do these pains come?",
+    "xhosa": "Zifika ezi ntlungu nini?",
+    "audio": "media459.mp3"
+   },
+   {
+    "english": "When does this pain come?",
+    "xhosa": "Ifika le ntlungu nini?",
+    "audio": "media460.mp3"
+   },
+   {
+    "english": "When do they get better?",
+    "xhosa": "Zibabhetele nini?",
+    "audio": "media461.mp3"
+   },
+   {
+    "english": "Do these pains wake you up at night/when you are sleeping?",
+    "xhosa": "Ingaba ezi ntlungu ziyakuvusa ebusuku / xa ulele?",
+    "audio": "media454.mp3"
+   },
+   {
+    "english": "Do these pains disturb your daily activities?",
+    "xhosa": "Ziphazamisa imisebenzi yakho ezi ntlungu?",
+    "audio": "media464.mp3"
+   },
+   {
+    "english": "How can you describe these pains?",
+    "xhosa": "Ungazichaza zinjani ezi ntlungu?",
+    "audio": "media465.mp3"
+   },
+   {
+    "english": "Do these pains disappear?",
+    "xhosa": "Ziyanyamalala (disappear) ezintlungu?",
+    "audio": "media466.mp3"
+   },
+   {
+    "english": "When do the pains get worse?",
+    "xhosa": "Zibuhlungu kakhulu nini?",
+    "audio": "media467.mp3"
+   },
+   {
+    "english": "Is the pain throbbing?",
+    "xhosa": "Uyaqaqanjelwa?",
+    "audio": "media462.mp3"
+   },
+   {
+    "english": "Are these pain cramps?",
+    "xhosa": "Ziyaluma ezi ntlungu?",
+    "audio": "media463.mp3"
+   },
+   {
+    "english": "Does this pain disappear?",
+    "xhosa": "Ingaba iyanyamalala le ntlungu?",
+    "audio": "media468.mp3"
+   },
+   {
+    "english": "Does the pain travel?",
+    "xhosa": "Iyahamba hamba le ntlungu?",
+    "audio": "media469.mp3"
+   },
+   {
+    "english": "Does the pain get worse?",
+    "xhosa": "Le ntlungu iyaqinisa?",
+    "audio": "media470.mp3"
+   },
+   {
+    "english": "Have you lost weight?",
+    "xhosa": "Umzimba wakho wehlile?",
+    "audio": "media471.mp3"
+   },
+   {
+    "english": "Do you cough?",
+    "xhosa": "Uyakhohlela?",
+    "audio": "media472.mp3"
+   },
+   {
+    "english": "Do you have shortness of breath?",
+    "xhosa": "Uyaminxana?",
+    "audio": "media473.mp3"
+   },
+   {
+    "english": "Are you dizzy?",
+    "xhosa": "Unesiyezi?",
+    "audio": "media474.mp3"
+   },
+   {
+    "english": "When do you get these pains?",
+    "xhosa": "Uzifumana nini ezi ntlungu?",
+    "audio": "media479.wav"
+   },
+   {
+    "english": "Choose your answer:",
+    "xhosa": "Khetha impendulo yakho:",
+    "audio": "media480.mp3"
+   },
+   {
+    "english": "When you are sleeping?",
+    "xhosa": "Xa ulele?",
+    "audio": "media475.mp3"
+   },
+   {
+    "english": "When you sit?",
+    "xhosa": "Xa uhleli phantsi?",
+    "audio": "media478.mp3"
+   },
+   {
+    "english": "When you walk?",
+    "xhosa": "Xa uhamba-hamba?",
+    "audio": "media476.mp3"
+   },
+   {
+    "english": "When coughing?",
+    "xhosa": "Xa ukhohlela?",
+    "audio": "media477.mp3"
+   },
+   {
+    "english": "When do you get these pains?",
+    "xhosa": "Uzifumana nini ezi ntlungu?",
+    "audio": "media479.wav"
+   },
+   {
+    "english": "Choose your answer:",
+    "xhosa": "Khetha impendulo yakho:",
+    "audio": "media480.mp3"
+   },
+   {
+    "english": "When standing?",
+    "xhosa": "Xa umile?",
+    "audio": "media481.mp3"
+   },
+   {
+    "english": "When breathing?",
+    "xhosa": "Xa uphefumla?",
+    "audio": "media482.mp3"
+   },
+   {
+    "english": "When running?",
+    "xhosa": "Xa ubaleka?",
+    "audio": "media483.mp3"
+   },
+   {
+    "english": "When talking?",
+    "xhosa": "Xa uthetha?",
+    "audio": "media484.mp3"
+   },
+   {
+    "english": "When does the pain become better?",
+    "xhosa": "Ibabhetele nini intlungu?",
+    "audio": "media485.mp3"
+   },
+   {
+    "english": "The pain gets worse when:",
+    "xhosa": "Zibabuhlungu kakhulu:",
+    "audio": "media486.mp3"
+   },
+   {
+    "english": "The pain gets better:",
+    "xhosa": "Zibabhetele:",
+    "audio": "media487.wav"
+   },
+   {
+    "english": "When you are resting?",
+    "xhosa": "Xa uphumle?",
+    "audio": "media488.mp3"
+   },
+   {
+    "english": "When you turn around?",
+    "xhosa": "Xa uguquka?",
+    "audio": "media489.mp3"
+   },
+   {
+    "english": "When you take medicine?",
+    "xhosa": "Xa uthatha amayeza?",
+    "audio": "media490.mp3"
+   },
+   {
+    "english": "When you lie on your back?",
+    "xhosa": "Xa ulele ngomqolo?",
+    "audio": "media491.mp3"
+   },
+   {
+    "english": "When you pass wind?",
+    "xhosa": "Xa usuza?",
+    "audio": "media492.mp3"
+   },
+   {
+    "english": "Do you take medicine?",
+    "xhosa": "Uthatha amayeza?",
+    "audio": "media496.mp3"
+   },
+   {
+    "english": "Do you take tablets?",
+    "xhosa": "Uthatha ipilisi?",
+    "audio": "media497.wav"
+   },
+   {
+    "english": "Which medicine do you take?",
+    "xhosa": "Uthatha awaphi amayeza?",
+    "audio": "media498.mp3"
+   },
+   {
+    "english": "Which tablets do you take?",
+    "xhosa": "Uthatha eziphi iipilisi?",
+    "audio": "media494.mp3"
+   },
+   {
+    "english": "When do you take the tablets?",
+    "xhosa": "Uthatha iipilisi nini?",
+    "audio": "media493.mp3"
+   },
+   {
+    "english": "When do you take your medicine?",
+    "xhosa": "Uthatha amayeza nini?",
+    "audio": "media499.wav"
+   },
+   {
+    "english": "How many times a day?",
+    "xhosa": "Kangaphi ngemini?",
+    "audio": "media495.mp3"
+   }
+  ],
+  "slides": [
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75
+  ]
+ },
+ {
+  "title": "Sputum Questions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "What colour is your sputum?",
+    "xhosa": "Unjani umbala wesikhohlela sakho?",
+    "audio": "media500.mp3"
+   },
+   {
+    "english": "Is it green?",
+    "xhosa": "Siluhlaza",
+    "audio": "media501.mp3"
+   },
+   {
+    "english": "It has blood",
+    "xhosa": "Sinegazi",
+    "audio": "media502.mp3"
+   },
+   {
+    "english": "It is clear/white",
+    "xhosa": "Simhlophe",
+    "audio": "media503.mp3"
+   },
+   {
+    "english": "It is dark",
+    "xhosa": "Simdaka",
+    "audio": "media504.mp3"
+   },
+   {
+    "english": "It is smelly",
+    "xhosa": "Siyanuka",
+    "audio": "media505.mp3"
+   },
+   {
+    "english": "Do you cough?",
+    "xhosa": "Uyakhohlela?",
+    "audio": "media506.mp3"
+   },
+   {
+    "english": "When did the cough start?",
+    "xhosa": "Luqale nini ukhohlo-khohlo?",
+    "audio": "media507.mp3"
+   },
+   {
+    "english": "Is your chest wheezy?",
+    "xhosa": "Isifuba sakho siyatswina?",
+    "audio": "media508.mp3"
+   },
+   {
+    "english": "Have you ever had TB?",
+    "xhosa": "Wakhe wanayo iTB ngaphambili?",
+    "audio": "media509.mp3"
+   },
+   {
+    "english": "Do you take any medicine?",
+    "xhosa": "Uthatha amayeza?",
+    "audio": "media496.mp3"
+   },
+   {
+    "english": "What kind of work do you do?",
+    "xhosa": "Wenza umsebenzi onjani?",
+    "audio": "media510.mp3"
+   },
+   {
+    "english": "What are your hobbies?",
+    "xhosa": "Zintoni othanda ukuzenza?",
+    "audio": "media511.mp3"
+   },
+   {
+    "english": "Do you have a pet at home?",
+    "xhosa": "Unesilwanyana ekhaya?",
+    "audio": "media512.mp3"
+   },
+   {
+    "english": "Have you lost weight?",
+    "xhosa": "Ingaba umzimba wakho uyehla?",
+    "audio": "media513.mp3"
+   },
+   {
+    "english": "Are you smoking?",
+    "xhosa": "Uyatshaya?",
+    "audio": "media514.mp3"
+   },
+   {
+    "english": "Is there anyone with asthma in your family?",
+    "xhosa": "Ukhona umntu onesifuba efemelini yakho?",
+    "audio": "media515.mp3"
+   },
+   {
+    "english": "Is your chest dry?",
+    "xhosa": "Isifuba sakho somile?",
+    "audio": "media516.mp3"
+   },
+   {
+    "english": "Do you cough when lying down?",
+    "xhosa": "Ukhohlela xa ulele?",
+    "audio": "media517.mp3"
+   },
+   {
+    "english": "Do you have chest pain?",
+    "xhosa": "Unentlungu esifubeni?",
+    "audio": "media518.mp3"
+   }
+  ],
+  "slides": [
+   76,
+   77,
+   78
+  ]
+ },
+ {
+  "title": "TB-related Phrases",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Vaccinate",
+    "xhosa": "gonya",
+    "audio": "media519.mp3"
+   },
+   {
+    "english": "Treatment",
+    "xhosa": "unyango",
+    "audio": "media520.mp3"
+   },
+   {
+    "english": "Sweat",
+    "xhosa": "ukubila",
+    "audio": "media521.mp3"
+   },
+   {
+    "english": "Weight loss",
+    "xhosa": "ukuhla komzimba",
+    "audio": "media522.mp3"
+   },
+   {
+    "english": "Coughing",
+    "xhosa": "khohlela",
+    "audio": "media523.mp3"
+   },
+   {
+    "english": "Breathing pain",
+    "xhosa": "iphika",
+    "audio": "media524.mp3"
+   }
+  ],
+  "slides": [
+   79
+  ]
+ },
+ {
+  "title": "TB-related Questions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Have you been diagnosed with TB?",
+    "xhosa": "Wakhe wane-TB?",
+    "audio": "media525.mp3"
+   },
+   {
+    "english": "Have you been vaccinated against TB?",
+    "xhosa": "Wakhe wagonyelwa isifo se-TB?",
+    "audio": "media526.mp3"
+   },
+   {
+    "english": "Have you ever taken treatment for TB?",
+    "xhosa": "Wakhe wanyangelwa isifo se-TB?",
+    "audio": "media527.mp3"
+   },
+   {
+    "english": "Yes",
+    "xhosa": "Ewe",
+    "audio": "media529.mp3"
+   },
+   {
+    "english": "No",
+    "xhosa": "Hayi",
+    "audio": "media528.mp3"
+   },
+   {
+    "english": "I don’t know",
+    "xhosa": "Andazi",
+    "audio": "media530.mp3"
+   },
+   {
+    "english": "Yes",
+    "xhosa": "Ewe",
+    "audio": "media529.mp3"
+   },
+   {
+    "english": "No",
+    "xhosa": "Hayi",
+    "audio": "media528.mp3"
+   },
+   {
+    "english": "I don’t know",
+    "xhosa": "Andazi",
+    "audio": "media530.mp3"
+   },
+   {
+    "english": "Have you ever lived with someone who has TB?",
+    "xhosa": "Wakhe wahlala nomntu one-TB?",
+    "audio": "media531.mp3"
+   },
+   {
+    "english": "Have you lost weight?",
+    "xhosa": "Ingaba umzimba wakho uhlile?",
+    "audio": "media532.mp3"
+   },
+   {
+    "english": "Do you sweat a lot at night?",
+    "xhosa": "Uyabila kakhulu ebusuku?",
+    "audio": "media533.mp3"
+   }
+  ],
+  "slides": [
+   80,
+   81
+  ]
+ },
+ {
+  "title": "HIV and AIDS",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "What is HIV/AIDS?",
+    "xhosa": "Yintoni i-HIV/AIDS?",
+    "audio": "media534.mp3"
+   },
+   {
+    "english": "sperm",
+    "xhosa": "Imbewu yobudoda / i-sperm",
+    "audio": null
+   },
+   {
+    "english": "glands",
+    "xhosa": "Amadlala",
+    "audio": "media536.mp3"
+   },
+   {
+    "english": "gland",
+    "xhosa": "Idlala",
+    "audio": "media537.mp3"
+   },
+   {
+    "english": "diarrhoea",
+    "xhosa": "Urhudo",
+    "audio": "media538.mp3"
+   },
+   {
+    "english": "flu",
+    "xhosa": "Umkhuhlane",
+    "audio": "media539.mp3"
+   },
+   {
+    "english": "fever",
+    "xhosa": "Ubushushu",
+    "audio": "media540.mp3"
+   },
+   {
+    "english": "tiredness",
+    "xhosa": "Ukudinwa",
+    "audio": "media541.mp3"
+   },
+   {
+    "english": "White colouring on tongue",
+    "xhosa": "Ulwimi olumhlophe",
+    "audio": "media542.mp3"
+   },
+   {
+    "english": "White spot on side of lips",
+    "xhosa": "Amanqangisa",
+    "audio": "media543.mp3"
+   },
+   {
+    "english": "Rash",
+    "xhosa": "Irhashalala",
+    "audio": "media544.mp3"
+   },
+   {
+    "english": "red rash",
+    "xhosa": "irhashalala ebomvu",
+    "audio": "media545.mp3"
+   },
+   {
+    "english": "cough",
+    "xhosa": "Khohlela",
+    "audio": "media546.mp3"
+   },
+   {
+    "english": "nausea",
+    "xhosa": "isicefe-cefe",
+    "audio": null
+   },
+   {
+    "english": "vomiting",
+    "xhosa": "ukugabha",
+    "audio": "media548.mp3"
+   },
+   {
+    "english": "memory loss",
+    "xhosa": "ukulibala",
+    "audio": "media549.mp3"
+   },
+   {
+    "english": "chest pain",
+    "xhosa": "intlungu zesifuba",
+    "audio": "media550.mp3"
+   },
+   {
+    "english": "numbness",
+    "xhosa": "ukutyhafa",
+    "audio": "media551.mp3"
+   },
+   {
+    "english": "Numbness of feet",
+    "xhosa": "ukutyhafa kweenyawo",
+    "audio": "media552.mp3"
+   },
+   {
+    "english": "Numbness of hands",
+    "xhosa": "ukutyhafa kwezandla",
+    "audio": "media553.mp3"
+   },
+   {
+    "english": "Is it sore to swallow?",
+    "xhosa": "Kubuhlungu ukuginya?",
+    "audio": "media554.mp3"
+   }
+  ],
+  "slides": [
+   82,
+   83,
+   84
+  ]
+ },
+ {
+  "title": "Cancer",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Breast cancer",
+    "xhosa": "Umhlaza webele",
+    "audio": "media555.mp3"
+   },
+   {
+    "english": "Brain cancer",
+    "xhosa": "Umhlaza wengqondo",
+    "audio": "media556.mp3"
+   },
+   {
+    "english": "Womb cancer",
+    "xhosa": "Umhlaza wesibeleko",
+    "audio": "media557.mp3"
+   },
+   {
+    "english": "Marrow cancer",
+    "xhosa": "Umhlaza womongo",
+    "audio": "media558.mp3"
+   },
+   {
+    "english": "Skin cancer",
+    "xhosa": "Umhlaza wesikhumba",
+    "audio": "media559.mp3"
+   },
+   {
+    "english": "Leukaemia (blood cancer)",
+    "xhosa": "Umhlaza wegazi",
+    "audio": "media560.mp3"
+   }
+  ],
+  "slides": [
+   85
+  ]
+ },
+ {
+  "title": "The Abdomen and Stomach Questions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Have you lost weight?",
+    "xhosa": "Umzimba wakho wehlile?",
+    "audio": "media561.mp3"
+   },
+   {
+    "english": "How is your appetite?",
+    "xhosa": "Utya kakuhle?",
+    "audio": "media562.mp3"
+   },
+   {
+    "english": "How is your swallowing?",
+    "xhosa": "Uginya kanjani?",
+    "audio": "media563.mp3"
+   },
+   {
+    "english": "Are you nauseous?",
+    "xhosa": "Unesicefe-cefe?",
+    "audio": null
+   },
+   {
+    "english": "Are you vomiting?",
+    "xhosa": "Uyagabha?",
+    "audio": "media565.mp3"
+   },
+   {
+    "english": "Do you have diarrhoea?",
+    "xhosa": "Uyarhuda?",
+    "audio": "media566.mp3"
+   },
+   {
+    "english": "Is your stomach loose?",
+    "xhosa": "Uyahambisa?",
+    "audio": "media567.mp3"
+   },
+   {
+    "english": "Are you constipated?",
+    "xhosa": "Uqhinile?",
+    "audio": "media568.mp3"
+   },
+   {
+    "english": "Does your stool have blood?",
+    "xhosa": "Ithoylethi yakho inegazi?",
+    "audio": "media569.mp3"
+   },
+   {
+    "english": "Do you drink?",
+    "xhosa": "Uyasela?",
+    "audio": "media570.mp3"
+   },
+   {
+    "english": "Do you drink a lot or a little?",
+    "xhosa": "Usela kancinci okanye kakhulu?",
+    "audio": "media571.mp3"
+   },
+   {
+    "english": "Have you had stomach ache before?",
+    "xhosa": "Wakhe wanesisu ngaphambili?",
+    "audio": "media572.mp3"
+   },
+   {
+    "english": "Do you have heart burn?",
+    "xhosa": "Unesitshisa?",
+    "audio": "media573.mp3"
+   },
+   {
+    "english": "When do you suffer from heart burn?",
+    "xhosa": "Sikuphatha isitshisa nini?",
+    "audio": "media574.mp3"
+   },
+   {
+    "english": "Have you had an operation before?",
+    "xhosa": "Wakhe wane-oparation?",
+    "audio": "media575.mp3"
+   },
+   {
+    "english": "",
+    "xhosa": "Wakhe wahlinzwa ngaphambili?",
+    "audio": "media576.mp3"
+   },
+   {
+    "english": "Are you bloated?",
+    "xhosa": "Uqunjelwe sisisu?",
+    "audio": "media577.mp3"
+   },
+   {
+    "english": "Do you have stomach wind?",
+    "xhosa": "Unomoya esuswini?",
+    "audio": "media578.mp3"
+   },
+   {
+    "english": "Do you pass wind?",
+    "xhosa": "Uyasuza?",
+    "audio": "media579.mp3"
+   }
+  ],
+  "slides": [
+   86,
+   87,
+   88
+  ]
+ },
+ {
+  "title": "Advanced Abdomen and Stomach Questions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Abdominal pain",
+    "xhosa": "Isisu esibuhlungu",
+    "audio": "media580.mp3"
+   },
+   {
+    "english": "Do-you-eat well?",
+    "xhosa": "Utya kakuhle?",
+    "audio": "media581.mp3"
+   },
+   {
+    "english": "Have you lost weight?",
+    "xhosa": "Umzimba wakho uhlile? (hlile – went down)",
+    "audio": null
+   },
+   {
+    "english": "Are-you-nauseas?",
+    "xhosa": "Unesicefe-cefe? (isicefe-cefe – nausea)",
+    "audio": null
+   },
+   {
+    "english": "Do-you-have difficulty in swallowing?",
+    "xhosa": "Kunzima ukuginya?",
+    "audio": "media584.mp3"
+   },
+   {
+    "english": "Is-it-sore to-swallow?",
+    "xhosa": "Kubuhlungu ukuginya? (ginya – swallow)",
+    "audio": null
+   },
+   {
+    "english": "Is your stomach running?",
+    "xhosa": "Uyahambisa?",
+    "audio": "media586.mp3"
+   },
+   {
+    "english": "Are-you-constipated?",
+    "xhosa": "Uqhinile?",
+    "audio": "media587.mp3"
+   },
+   {
+    "english": "Is there blood in your stool?",
+    "xhosa": "I-toilet yakho inegazi?",
+    "audio": "media589.mp3"
+   },
+   {
+    "english": "Is-your-stool black or yellow?",
+    "xhosa": "Itoilet yakho imnyama okanye ityheli?",
+    "audio": "media588.mp3"
+   },
+   {
+    "english": "Have you lost your appetite?",
+    "xhosa": "Akuthandi ukutya?",
+    "audio": "media590.mp3"
+   }
+  ],
+  "slides": [
+   89,
+   90
+  ]
+ },
+ {
+  "title": "Rectal Examination",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "I would like to examine your rectum.",
+    "xhosa": "Ndicela ukuxilonga impundu zakho.",
+    "audio": "media591.mp3"
+   },
+   {
+    "english": "Lie on your left/right side.",
+    "xhosa": "Lala ngecala lasekhohlo. / Lala ngecala lasekunene.",
+    "audio": null
+   },
+   {
+    "english": "I will insert a finger into your rectum.",
+    "xhosa": "Ndiza kufaka umnwe empundwini yakho.",
+    "audio": "media593.mp3"
+   },
+   {
+    "english": "Let me know if it is sore.",
+    "xhosa": "Yitsho ukuba kubuhlungu.",
+    "audio": "media594.mp3"
+   },
+   {
+    "english": "This is (name of instrument).",
+    "xhosa": "Le yi(name of an instrument).",
+    "audio": null
+   },
+   {
+    "english": "I will insert (name of instrument).",
+    "xhosa": "Ndiza kufaka i(name of an instrument) ukujonga ngaphakathi. (jonga – look)",
+    "audio": null
+   },
+   {
+    "english": "Don’t-be-afraid.",
+    "xhosa": "Sukoyika.",
+    "audio": "media597.mp3"
+   },
+   {
+    "english": "Lie on your back.",
+    "xhosa": "Lala ngomqolo.",
+    "audio": "media598.mp3"
+   },
+   {
+    "english": "I will press your stomach.",
+    "xhosa": "Ndiza kucofa isisu sakho.",
+    "audio": "media599.mp3"
+   },
+   {
+    "english": "Don’t-move.",
+    "xhosa": "Sukushukuma.",
+    "audio": "media600.mp3"
+   },
+   {
+    "english": "Good!",
+    "xhosa": "Kuhle!",
+    "audio": "media601.mp3"
+   },
+   {
+    "english": "",
+    "xhosa": "Heke!",
+    "audio": "media602.mp3"
+   },
+   {
+    "english": "You are doing well.",
+    "xhosa": "Uyazama.",
+    "audio": "media603.mp3"
+   },
+   {
+    "english": "We are nearly done.",
+    "xhosa": "Sesiza kugqiba.",
+    "audio": "media604.mp3"
+   },
+   {
+    "english": "I am sorry.",
+    "xhosa": "Uxolo.",
+    "audio": "media605.mp3"
+   },
+   {
+    "english": "Let’s try again.",
+    "xhosa": "Masizame kwakhona.",
+    "audio": "media606.mp3"
+   }
+  ],
+  "slides": [
+   91,
+   92,
+   93
+  ]
+ },
+ {
+  "title": "Male Reproductive Organs",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Testicles",
+    "xhosa": "Amatapile",
+    "audio": "media607.mp3"
+   },
+   {
+    "english": "",
+    "xhosa": "amasende",
+    "audio": "media608.mp3"
+   },
+   {
+    "english": "Penis",
+    "xhosa": "incanca",
+    "audio": "media609.mp3"
+   },
+   {
+    "english": "",
+    "xhosa": "ubudoda",
+    "audio": "media610.mp3"
+   },
+   {
+    "english": "",
+    "xhosa": "icuba",
+    "audio": "media611.mp3"
+   },
+   {
+    "english": "",
+    "xhosa": "itotosi",
+    "audio": "media612.mp3"
+   }
+  ],
+  "slides": [
+   94
+  ]
+ },
+ {
+  "title": "Female Reproductive System",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "womb",
+    "xhosa": "isibeleko",
+    "audio": "media614.mp3"
+   },
+   {
+    "english": "ovaries",
+    "xhosa": "amaqanda",
+    "audio": "media615.mp3"
+   },
+   {
+    "english": "vagina",
+    "xhosa": "ubufazi",
+    "audio": "media616.mp3"
+   },
+   {
+    "english": "breast",
+    "xhosa": "ibele",
+    "audio": "media617.mp3"
+   },
+   {
+    "english": "menstruation",
+    "xhosa": "ukuhlamba",
+    "audio": "media618.mp3"
+   },
+   {
+    "english": "",
+    "xhosa": "ukumensa",
+    "audio": "media619.mp3"
+   },
+   {
+    "english": "",
+    "xhosa": "ndiyahlamba",
+    "audio": "media620.mp3"
+   },
+   {
+    "english": "",
+    "xhosa": "ndiyamensa",
+    "audio": "media613.mp3"
+   }
+  ],
+  "slides": [
+   95
+  ]
+ },
+ {
+  "title": "Ailments of the Female Reproductive Organs",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "discharge",
+    "xhosa": "ukuchiza ngaphantsi/ i-discharge",
+    "audio": "media621.mp3"
+   },
+   {
+    "english": "a smell",
+    "xhosa": "Ivumba",
+    "audio": "media628.mp3"
+   },
+   {
+    "english": "urine",
+    "xhosa": "Umchamo",
+    "audio": "media627.mp3"
+   },
+   {
+    "english": "sex",
+    "xhosa": "Ukwabelana ngesondo",
+    "audio": "media626.mp3"
+   },
+   {
+    "english": "How long does your period last?",
+    "xhosa": "Uhlamba ixesha elingakanani? / Umensa ixesha elingakanani?",
+    "audio": null
+   },
+   {
+    "english": "When did you menstruate last?",
+    "xhosa": "Ugqibele nini ukumensa?",
+    "audio": "media623.mp3"
+   },
+   {
+    "english": "How many days did you menstruate?",
+    "xhosa": "Umensa iintsuku ezingaphi?",
+    "audio": "media624.mp3"
+   },
+   {
+    "english": "Are your periods heavier than usual?",
+    "xhosa": "Wopha kakhulu kunesiqhelo?",
+    "audio": "media625.mp3"
+   },
+   {
+    "english": "Does the discharge smell?",
+    "xhosa": "Iyanuka i-discharge yakho?",
+    "audio": "media630.mp3"
+   },
+   {
+    "english": "Does the discharge smell bad?",
+    "xhosa": "Inuka kakubi i-discharge?",
+    "audio": "media631.mp3"
+   },
+   {
+    "english": "Do you have a discharge?",
+    "xhosa": "Uyachiza ngaphantsi? /\nUne-discharge?",
+    "audio": "media629.mp3"
+   },
+   {
+    "english": "When did the discharge start?",
+    "xhosa": "Iqale nini i-discharge?",
+    "audio": "media632.mp3"
+   },
+   {
+    "english": "What is the colour or the discharge?",
+    "xhosa": "Ngumbala onjani i-discharge yakho?",
+    "audio": "media633.mp3"
+   },
+   {
+    "english": "Did it start before menstruation?",
+    "xhosa": "Iqale phambi kokuhlamba? /\nIqale phambi kokumensa?",
+    "audio": "media634.mp3"
+   },
+   {
+    "english": "Did it start after menstruation?",
+    "xhosa": "Iqale emva kokuhlamba? /\nIqale emva kokumensa?",
+    "audio": "media635.mp3"
+   },
+   {
+    "english": "Do you have a vaginal itch?",
+    "xhosa": "Uyarhawuzelela ngaphantsi?",
+    "audio": "media636.mp3"
+   },
+   {
+    "english": "Does your urine burn?",
+    "xhosa": "Uyatshisa umchamo wakho?",
+    "audio": "media637.mp3"
+   },
+   {
+    "english": "Have you tested for HIV/AIDS?",
+    "xhosa": "Ukhe wazihlolela  i-HIV/AIDS?",
+    "audio": "media638.mp3"
+   },
+   {
+    "english": "Your womb is swollen.",
+    "xhosa": "Isibeleko sakho sidumbile.",
+    "audio": "media639.mp3"
+   },
+   {
+    "english": "You are pregnant.",
+    "xhosa": "Ukhulelwe/umithi.",
+    "audio": "media640.mp3"
+   },
+   {
+    "english": "How many months?",
+    "xhosa": "Iinyanga zingaphi?",
+    "audio": "media641.mp3"
+   },
+   {
+    "english": "You have womb cancer.",
+    "xhosa": "Unomhlaza wesibeleko.",
+    "audio": "media642.mp3"
+   },
+   {
+    "english": "Bleeding",
+    "xhosa": "Ukopha",
+    "audio": "media643.mp3"
+   },
+   {
+    "english": "Abortion",
+    "xhosa": "Ukukhupha isisu",
+    "audio": "media644.mp3"
+   }
+  ],
+  "slides": [
+   96,
+   97,
+   98
+  ]
+ },
+ {
+  "title": "Examination of the Female Reproductive Organs",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "I will examine you internally.",
+    "xhosa": "Ndiza kukuxilonga ngaphakathi.",
+    "audio": "media645.mp3"
+   },
+   {
+    "english": "I would like you to take off your underwear.",
+    "xhosa": "Ndicela ukhulule impahla yakho yangaphantsi.",
+    "audio": "media646.mp3"
+   },
+   {
+    "english": "Please put on this gown.",
+    "xhosa": "Nxiba le gawuni.",
+    "audio": "media647.mp3"
+   },
+   {
+    "english": "Get on the bed.",
+    "xhosa": "Khwela ebhedini.",
+    "audio": "media648.mp3"
+   },
+   {
+    "english": "Lie on your back.",
+    "xhosa": "Lala ngomqolo.",
+    "audio": "media649.mp3"
+   },
+   {
+    "english": "Raise your knees.",
+    "xhosa": "Nyusa amadolo.",
+    "audio": "media650.mp3"
+   },
+   {
+    "english": "Open your legs.",
+    "xhosa": "Vula imilenze yakho.",
+    "audio": "media651.mp3"
+   },
+   {
+    "english": "I will put my finger.",
+    "xhosa": "Ndiza kufaka umnwe.",
+    "audio": "media652.mp3"
+   },
+   {
+    "english": "Don’t be scared.",
+    "xhosa": "Sukoyika.",
+    "audio": "media653.mp3"
+   },
+   {
+    "english": "Hold your breath/don’t breathe.",
+    "xhosa": "Bamba umphefumlo./Sukuphefumla.",
+    "audio": "media654.mp3"
+   },
+   {
+    "english": "Cough!",
+    "xhosa": "Khohlela!",
+    "audio": "media655.mp3"
+   },
+   {
+    "english": "You can get dressed",
+    "xhosa": "Unganxiba.",
+    "audio": "media656.mp3"
+   },
+   {
+    "english": "Are you having sex?",
+    "xhosa": "Uyabelana ngesondo?",
+    "audio": "media657.mp3"
+   },
+   {
+    "english": "Do you have any pain during sex?",
+    "xhosa": "Unentlungu xa usabelana ngesondo?",
+    "audio": "media658.mp3"
+   },
+   {
+    "english": "Do you bleed after sex?",
+    "xhosa": "Uyopha emva kwesondo?",
+    "audio": "media659.mp3"
+   },
+   {
+    "english": "Are you using birth control?",
+    "xhosa": "Uyacwangcisa?",
+    "audio": "media660.mp3"
+   },
+   {
+    "english": "Do you think you are pregnant?",
+    "xhosa": "Ucinga ukuba ukhulelwe / Ucinga ukuba umithi?",
+    "audio": null
+   },
+   {
+    "english": "Are you trying to get pregnant?",
+    "xhosa": "Ufuna ukukhulelwa? / Ufuna ukumitha?",
+    "audio": "media662.mp3"
+   }
+  ],
+  "slides": [
+   99,
+   100
+  ]
+ },
+ {
+  "title": "Urine Questions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "Do you have back pain?",
+    "xhosa": "Umqolo ubuhlungu?",
+    "audio": "media663.mp3"
+   },
+   {
+    "english": "Do you urinate well?",
+    "xhosa": "Uchama kakuhle?",
+    "audio": "media664.mp3"
+   },
+   {
+    "english": "Do you struggle to urinate?",
+    "xhosa": "Uyasokola ukuchama?",
+    "audio": "media665.mp3"
+   },
+   {
+    "english": "Is it sore when urinating?",
+    "xhosa": "Kubuhlungu xa uchama?",
+    "audio": "media666.mp3"
+   },
+   {
+    "english": "Has your urine changed colour?",
+    "xhosa": "Umchamo wakho utshintsha umbala?",
+    "audio": "media667.mp3"
+   },
+   {
+    "english": "Does the urine burn?",
+    "xhosa": "Umchamo uyatshisa?",
+    "audio": "media668.mp3"
+   },
+   {
+    "english": "Do you urinate frequently?",
+    "xhosa": "Uchama qho?",
+    "audio": "media669.mp3"
+   },
+   {
+    "english": "Do you urinate small amounts frequently?",
+    "xhosa": "Uchama kancinci qho?",
+    "audio": "media670.mp3"
+   },
+   {
+    "english": "Do you urinate a lot frequently?",
+    "xhosa": "Uchama kaninzi qho?",
+    "audio": "media671.mp3"
+   },
+   {
+    "english": "Do you urinate a lot at night?",
+    "xhosa": "Uchama kakhulu ebusuku?",
+    "audio": "media672.mp3"
+   },
+   {
+    "english": "Do you urinate a little?",
+    "xhosa": "Uchama kancinci?",
+    "audio": "media673.mp3"
+   },
+   {
+    "english": "Do you have difficulty urinating?",
+    "xhosa": "Uchama kanzima?",
+    "audio": "media674.mp3"
+   },
+   {
+    "english": "Is your urine cloudy?",
+    "xhosa": "Umchamo wakho unkungu?",
+    "audio": "media675.mp3"
+   },
+   {
+    "english": "Does your urine smell?",
+    "xhosa": "Umchamo wakho uyanuka?",
+    "audio": "media676.mp3"
+   },
+   {
+    "english": "Does your urine contain blood?",
+    "xhosa": "Umchamo wakho unegazi?",
+    "audio": "media677.mp3"
+   },
+   {
+    "english": "Are you able to hold urine?",
+    "xhosa": "Uyakwazi ukuwubamba umchamo?",
+    "audio": "media678.mp3"
+   },
+   {
+    "english": "Is your urine dark in colour?",
+    "xhosa": "Umchamo wakho umdaka ngebala?",
+    "audio": "media679.mp3"
+   },
+   {
+    "english": "Has your urine became dark in colour?",
+    "xhosa": "Wakhe umchamo wakho wamdaka ngebala?",
+    "audio": "media680.mp3"
+   }
+  ],
+  "slides": [
+   101,
+   102
+  ]
+ },
+ {
+  "title": "Oral Rehydration Solution",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "hand",
+    "xhosa": "isandla",
+    "audio": null
+   },
+   {
+    "english": "hands",
+    "xhosa": "izandla",
+    "audio": null
+   },
+   {
+    "english": "utensils",
+    "xhosa": "izixhobo",
+    "audio": null
+   },
+   {
+    "english": "bottle",
+    "xhosa": "ibhotile",
+    "audio": null
+   },
+   {
+    "english": "teaspoon",
+    "xhosa": "itispuni",
+    "audio": null
+   },
+   {
+    "english": "a pot",
+    "xhosa": "imbiza",
+    "audio": null
+   },
+   {
+    "english": "a bowl",
+    "xhosa": "isitya",
+    "audio": null
+   },
+   {
+    "english": "sugar",
+    "xhosa": "iswekile",
+    "audio": null
+   },
+   {
+    "english": "salt",
+    "xhosa": "ityuwa",
+    "audio": null
+   },
+   {
+    "english": "time",
+    "xhosa": "ixesha",
+    "audio": null
+   },
+   {
+    "english": "a time",
+    "xhosa": "ngexesha",
+    "audio": null
+   },
+   {
+    "english": "a problem",
+    "xhosa": "ingxaki",
+    "audio": null
+   },
+   {
+    "english": "wash",
+    "xhosa": "hlamba",
+    "audio": null
+   },
+   {
+    "english": "boil",
+    "xhosa": "bilisa",
+    "audio": null
+   },
+   {
+    "english": "add/ pour",
+    "xhosa": "galela",
+    "audio": null
+   },
+   {
+    "english": "stir",
+    "xhosa": "zamisa",
+    "audio": null
+   },
+   {
+    "english": "mix",
+    "xhosa": "xuba",
+    "audio": null
+   },
+   {
+    "english": "Wait/wait for",
+    "xhosa": "linda",
+    "audio": null
+   },
+   {
+    "english": "cool-down (temperature)",
+    "xhosa": "phola",
+    "audio": null
+   },
+   {
+    "english": "make cool",
+    "xhosa": "pholisa",
+    "audio": null
+   },
+   {
+    "english": "drink",
+    "xhosa": "sela",
+    "audio": null
+   },
+   {
+    "english": "make drink",
+    "xhosa": "selisa",
+    "audio": null
+   }
+  ],
+  "slides": [
+   103,
+   104,
+   105,
+   106
+  ]
+ },
+ {
+  "title": "Oral Rehydration Solution Questions",
+  "notes": [],
+  "phrases": [
+   {
+    "english": "What is the problem?",
+    "xhosa": "Yintoni ingxaki?",
+    "audio": null
+   },
+   {
+    "english": "What is your child’s problem?",
+    "xhosa": "Yintoni ingxaki yomntwana wakho?",
+    "audio": null
+   },
+   {
+    "english": "She/He is not well",
+    "xhosa": "Akaphilanga",
+    "audio": null
+   },
+   {
+    "english": "How did you see?",
+    "xhosa": "Uboné njani?",
+    "audio": null
+   },
+   {
+    "english": "How did you see that he/she is not well?",
+    "xhosa": "Uboné njani ukuba akaphilanga?",
+    "audio": null
+   },
+   {
+    "english": "Are his/her eyes sunken?",
+    "xhosa": "Amehlo akhe aphakathi?",
+    "audio": null
+   },
+   {
+    "english": "Are his /her  eyes  sunken?",
+    "xhosa": "Amehlo akhe atshonile?",
+    "audio": null
+   },
+   {
+    "english": "Are his/her stools very loose?",
+    "xhosa": "Uyatyatyaza?",
+    "audio": null
+   },
+   {
+    "english": "Are his/her stool watery?",
+    "xhosa": "Ithoyilethi yakhe ingamanzi?",
+    "audio": null
+   },
+   {
+    "english": "Are your child’s stools loose?",
+    "xhosa": "Ùyahambisa umntwana wakho?",
+    "audio": null
+   },
+   {
+    "english": "When did she/he start to have diarrhoea?",
+    "xhosa": "Uqale nini ukurhuda?",
+    "audio": null
+   },
+   {
+    "english": "Runny tummy",
+    "xhosa": "hambisa",
+    "audio": null
+   },
+   {
+    "english": "Does he/she have a runny stomach?",
+    "xhosa": "Uyahambisa?",
+    "audio": null
+   }
+  ],
+  "slides": [
+   107,
+   108
+  ]
+ }
+]
