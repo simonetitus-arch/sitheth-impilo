@@ -1,13 +1,7 @@
 # Sitheth'iMpilo — We speak health
 
-An isiXhosa clinical phrasebook for health science students: 37 topics, 624 phrases,
-551 audio clips pulled from the UWC Clinical Communication isiXhosa Phrasebook slide
-deck, plus an AI practice partner that roleplays a patient so students can rehearse
+An isiXhosa clinical phrasebook for health science students across 37 topics, plus an AI practice partner that roleplays a patient so students can rehearse
 out loud and get gentle correction.
-
-Built the same way as ProbleMeisha: a spec-first conversation with Claude, a static
-frontend, and one small serverless function that holds the API key so it never
-reaches the browser.
 
 ## What's here
 
@@ -111,7 +105,7 @@ vercel dev
 
 ## Cost
 
-Same shape as ProbleMeisha: a few dollars of Claude credit, free tiers of GitHub and
+A few dollars of Claude credit, free tiers of GitHub and
 Vercel, optional ~USD 15/year for a custom domain. Audio and phrasebook browsing cost
 nothing to run — only the AI practice chat calls the Anthropic API.
 
